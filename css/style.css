@@ -472,7 +472,7 @@ margin-bottom: 30px;
 /* start register */
 .register {
   margin-top: var(--main-margin);
-  background-image: url(../images/register.jpg);
+  background-image: url(../Images/register.jpg);
   background-size: cover;
   min-height: 140vh;
   background-position: center;
